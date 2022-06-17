@@ -2,6 +2,74 @@
   "status": 200,
   "message": "Success",
   "data": {
-
+    "categories": [
+      {
+        "name": "Margaret",
+        "avatar": "bi bi-person-fill"
+      },
+      {
+        "name": "Laura",
+        "avatar": "bi bi-person-fill"
+      },
+      {
+        "name": "Robert",
+        "avatar": "bi bi-person-fill"
+      },
+      {
+        "name": "Albert",
+        "avatar": "bi bi-person-fill"
+      },
+      {
+        "name": "Michale",
+        "avatar": "bi bi-person-fill"
+      }
+    ],
+    "mails": [
+      {
+        "name": "Margaret",
+        "avatar": "bi bi-person-fill",
+        "title": "dsd sddcdef dsfdc",
+        "hiredate": "13/4/1995",
+        "address": "3 efdf sdcsdc",
+        "city": "pari",
+        "phone": "(34)43434-343324"
+      },
+      {
+        "name": "Laura",
+        "avatar": "bi bi-person-fill",
+        "title": "dsd sddcdef dsfdc",
+        "hiredate": "13/4/1995",
+        "address": "3 efdf sdcsdc",
+        "city": "pari",
+        "phone": "(34)43434-343324"
+      },
+      {
+        "name": "Robert",
+        "avatar": "bi bi-person-fill",
+        "title": "dsd sddcdef dsfdc",
+        "hiredate": "13/4/1995",
+        "address": "3 efdf sdcsdc",
+        "city": "pari",
+        "phone": "(34)43434-343324"
+      },
+      {
+        "name": "Albert",
+        "avatar": "bi bi-person-fill",
+        "title": "dsd sddcdef dsfdc",
+        "hiredate": "13/4/1995",
+        "address": "3 efdf sdcsdc",
+        "city": "pari",
+        "phone": "(34)43434-343324"
+      },
+      {
+        "name": "Michale",
+        "avatar": "bi bi-person-fill",
+        "title": "dsd sddcdef dsfdc",
+        "hiredate": "13/4/1995",
+        "address": "3 efdf sdcsdc",
+        "city": "pari",
+        "phone": "(34)43434-343324"
+      }
+    ]
   }
 }
