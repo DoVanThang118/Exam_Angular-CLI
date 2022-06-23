@@ -1,0 +1,21 @@
+
+.container{
+  margin-top: 100px;
+  border: 5px solid red;
+}
+
+.col-4 div{
+  margin: 10px 0;
+}
+
+.col-4 img{
+  border-radius: 100%;
+}
+
+.col-4 div:hover{
+  background-color: pink;
+}
+
+.col-8 div{
+  margin: auto 0;
+}

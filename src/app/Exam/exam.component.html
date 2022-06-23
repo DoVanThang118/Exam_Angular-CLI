@@ -1,25 +1,15 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>EXAM ANGULAR CLI</title>
-
-
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
-
-
-</head>
-<body>
 <div class="container">
   <div class="row">
     <div class="col-4">
 
-      <div class="row" role="button" *ngFor="let a of categories;let i = index;">
-        <div class="col-2">
-          <i class="{{a.avatar}}"></i>
-        </div>
-        <div class="col-10">
-          <b>{{a.name}}</b>
+      <div role="button" *ngFor="let a of categories;let i = index;">
+        <div class="row" (click)="chageMails(a.name,a.avatar)">
+          <div class="col-2">
+            <img src="assets/images/{{a.avatar}}" width="50" height="50" alt="{{a.name}}">
+          </div>
+          <div class="col-10">
+            <b>{{a.name}}</b>
+          </div>
         </div>
       </div>
 
@@ -27,7 +17,7 @@
     <div class="col-8">
       <div *ngFor="let b of mails;let i = index;" >
         <div>
-          <i class="{{b.avatar}}"></i>
+          <img src="assets/images/{{b.avatar}}" width="100" height="100" alt="{{b.avatar}}">
           <h5>{{b.name}}</h5>
         </div>
         <table class="table table-bordered">
@@ -56,11 +46,3 @@
     </div>
   </div>
 </div>
-
-
-<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.5/dist/umd/popper.min.js" integrity="sha384-Xe+8cL9oJa6tN/veChSP7q+mnSPaj5Bcu9mPX5F5xIGE0DVittaqT5lorf0EI7Vk" crossorigin="anonymous"></script>
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.min.js" integrity="sha384-kjU+l4N0Yf4ZOJErLsIcvOU2qSb74wXpOhqTvwVx3OElZRweTnQ6d31fXEoRD1Jy" crossorigin="anonymous"></script>
-
-
-</body>
-</html>

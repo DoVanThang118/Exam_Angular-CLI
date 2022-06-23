@@ -5,29 +5,29 @@
     "categories": [
       {
         "name": "Margaret",
-        "avatar": "bi bi-person-fill"
+        "avatar": "1.jpg"
       },
       {
         "name": "Laura",
-        "avatar": "bi bi-person-fill"
+        "avatar": "2.jpg"
       },
       {
         "name": "Robert",
-        "avatar": "bi bi-person-fill"
+        "avatar": "3.jpg"
       },
       {
         "name": "Albert",
-        "avatar": "bi bi-person-fill"
+        "avatar": "4.jpg"
       },
       {
         "name": "Michale",
-        "avatar": "bi bi-person-fill"
+        "avatar": "5.jpg"
       }
     ],
     "mails": [
       {
         "name": "Margaret",
-        "avatar": "bi bi-person-fill",
+        "avatar": "1.jpg",
         "title": "dsd sddcdef dsfdc",
         "hiredate": "13/4/1995",
         "address": "3 efdf sdcsdc",
@@ -36,7 +36,7 @@
       },
       {
         "name": "Laura",
-        "avatar": "bi bi-person-fill",
+        "avatar": "2.jpg",
         "title": "dsd sddcdef dsfdc",
         "hiredate": "13/4/1995",
         "address": "3 efdf sdcsdc",
@@ -45,7 +45,7 @@
       },
       {
         "name": "Robert",
-        "avatar": "bi bi-person-fill",
+        "avatar": "3.jpg",
         "title": "dsd sddcdef dsfdc",
         "hiredate": "13/4/1995",
         "address": "3 efdf sdcsdc",
@@ -54,7 +54,7 @@
       },
       {
         "name": "Albert",
-        "avatar": "bi bi-person-fill",
+        "avatar": "4.jpg",
         "title": "dsd sddcdef dsfdc",
         "hiredate": "13/4/1995",
         "address": "3 efdf sdcsdc",
@@ -63,7 +63,7 @@
       },
       {
         "name": "Michale",
-        "avatar": "bi bi-person-fill",
+        "avatar": "5.jpg",
         "title": "dsd sddcdef dsfdc",
         "hiredate": "13/4/1995",
         "address": "3 efdf sdcsdc",
